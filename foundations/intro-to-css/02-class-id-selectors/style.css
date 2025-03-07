@@ -1,0 +1,34 @@
+.normal-class,
+.cooler-class {
+
+    background-color: #ee98a6;
+    font-size: larger;
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+
+
+}
+
+#ID-1 {
+    background-color: white;
+    color: blue;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+
+
+.cooler-class {
+
+
+    font-size: xx-large;
+
+}
+
+#ID-2 {
+
+    background-color: rgb(139, 243, 139);
+    font-size: xx-large;
+    font-weight: bolder;
+
+
+}
